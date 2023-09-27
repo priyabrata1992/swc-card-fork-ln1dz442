@@ -1,0 +1,12 @@
+{
+  "name": "@wcd/priyabrata1992.swc-card-fork-ln1dz442",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve gkCQDymQdRv9ZTlj1sTH --open"
+  },
+  "dependencies": {}
+}
